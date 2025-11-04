@@ -1,4 +1,4 @@
-namespace DnDProject
+namespace Command_Line_DnD
 {
     internal class PlayerCharacter 
     {

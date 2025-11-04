@@ -1,4 +1,4 @@
-namespace DnDProject;
+namespace Command_Line_DnD;
 
 // Contains miscellaneous properties and methods which define various data for use elsewhere
 internal class Data
