@@ -6,7 +6,13 @@ internal class LoadCharacter
     {
         try
         {
-            string[] lines = System.IO.File.ReadAllLines(Directory.GetCurrentDirectory() + "/CharacterSheets/" + filename + ".txt");
+            string currentDir = Directory.GetCurrentDirectory();
+			string projectRoot = currentDir;
+			if (currentDir.Contains(Path.Combine("bin", "Debug")) || currentDir.Contains(Path.Combine("bin", "Release")))
+			{
+				projectRoot = Path.GetFullPath(Path.Combine(currentDir, @"..\..\.."));
+			}
+            string[] lines = System.IO.File.ReadAllLines(projectRoot + "/CharacterSheets/" + filename + ".txt");
 
             // Set properties of PlayerCharacter
             for (int i = 0; i < lines.Length; i++)
