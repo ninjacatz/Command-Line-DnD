@@ -1,0 +1,66 @@
+NOTE: '*' denotes required fields
+NOTE: When listing multiples of something, separate with commas without any spaces (Ex. Insight,Sleight of Hand,Religion)
+_.~ First Name* ~._
+Broda
+_.~ Last Name ~._
+Balderk
+_.~ Race* ~._
+Dwarf
+_.~ Race Additional Language ~._
+
+_.~ Class* ~._
+Cleric
+_.~ Class Skill Proficiencies* ~._
+Medicine,History
+_.~ Gender ~._
+Male
+_.~ Eye Color ~._
+Blue
+_.~ Height (total inches) ~._
+55
+_.~ Weight ~._
+145
+_.~ Age ~._
+153
+_.~ Alignment ~._
+Lawful Good
+_.~ Faith ~._
+Berronar Truesilver
+_.~ Ideals ~._
+Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well.
+_.~ Bonds ~._
+I would die to recover an ancient relic of my faith that was lost long ago.
+_.~ Flaws ~._
+I am inflexible in my thinking.
+_.~ Backstory ~._
+A humble and devout Acolyte of the Temple of Truesilver in the Dwarven city of Bhal Thandhor, Broda Balderk has received a vision from the deity Berronar Truesilver while in worship. He is to meet someone who (insert characteristic) and is told he will go on an important and life-changing quest with that person. Clues from the vision lead him to believe it has something to do with the rumors of people found sleeping without ever waking up.
+_.~ Background* ~._
+Acolyte
+_.~ Background Additional Languages ~._
+Celestial,Elvish
+_.~ Background Feature ~._
+Shelter of the Faithful
+_.~ Total Hit Points* ~._
+53
+_.~ Current Hit Points* ~._
+53
+_.~ Level* ~._
+8
+_.~ Strength* ~._
+10
+_.~ Dexterity* ~._
+12
+_.~ Constitution* ~._
+18
+_.~ Intelligence* ~._
+14
+_.~ Wisdom* ~._
+20
+_.~ Charisma* ~._
+11
+_.~ ArmorClass* ~._
+17
+_.~ Size ~._
+Medium
+_.~ Equipment ~._
+thing1,thing2

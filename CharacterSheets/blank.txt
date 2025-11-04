@@ -1,0 +1,65 @@
+NOTE: '*' denotes required fields
+NOTE: When listing multiples of something, separate with commas without any spaces (Ex. Insight,Sleight of Hand,Religion)
+_.~ First Name* ~._
+
+_.~ Last Name ~._
+
+_.~ Race* ~._
+
+_.~ Race Additional Language ~._
+
+_.~ Class* ~._
+
+_.~ Class Skill Proficiencies* ~._
+
+_.~ Gender ~._
+
+_.~ Eye Color ~._
+
+_.~ Height (total inches) ~._
+
+_.~ Weight ~._
+
+_.~ Age ~._
+
+_.~ Alignment ~._
+
+_.~ Faith ~._
+
+_.~ Ideals ~._
+
+_.~ Bonds ~._
+
+_.~ Flaws ~._
+
+_.~ Backstory ~._
+
+_.~ Background* ~._
+
+_.~ Background Additional Languages ~._
+
+_.~ Background Feature ~._
+
+_.~ Total Hit Points* ~._
+
+_.~ Current Hit Points* ~._
+
+_.~ Level* ~._
+
+_.~ Strength* ~._
+
+_.~ Dexterity* ~._
+
+_.~ Constitution* ~._
+
+_.~ Intelligence* ~._
+
+_.~ Wisdom* ~._
+
+_.~ Charisma* ~._
+
+_.~ Armor Class* ~._
+
+_.~ Size ~._
+
+_.~ Equipment ~._
